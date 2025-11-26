@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**JoeChang0603/JoeChang0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joe - a Data / ML Engineer & Quant Infra Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Work Experience
+- **Machine Learning Engineer** @ Far EasTone (Taiwan) 
+  MLOps foundation on Databricks  · NLP/LLM classifiers  
+- **Data Engineer** @ Far EasTone 
+  ETL systems, Delta Lake pipelines, Data governance · Spark pipelines
+- **Data Pipelines, DW Design & Quant Infra Support** @ Kairos Research  
+  Async WebSocket ingestion · APScheduler / Airflow ETL · Data warehouse schema design · Monitoring utilities
+
+
+## 🌱 Interests
+- Real-Time Data Processing
+- Machine Learning · Build System · Crypto
+- Piano · Trumpet · Basketball
+
+
+## 💬 Reach Me  
+📧 Email: joe0977149910@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/i-yun-chang-821a66288
+
