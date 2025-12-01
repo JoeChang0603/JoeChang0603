@@ -17,6 +17,9 @@ My name is Joe - a Data / ML Engineer & Quant Infra Developer.
 - Machine Learning · Build System · Crypto
 - Piano · Trumpet · Basketball
 
+## 🎥 Featured Technical Videos
+- MLOps & MLFlow Basic Sharing → https://youtu.be/na7_nRhN4K0
+
 
 ## 💬 Reach Me  
 📧 Email: joe0977149910@gmail.com
